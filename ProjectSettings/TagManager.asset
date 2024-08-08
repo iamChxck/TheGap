@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Chore
+  - ChoreSpawnLoc
+  - PlayerWeapon
+  - StudyDesk
+  - InventorySystem
+  - BathEnter
+  - BathExit
+  - Enemy
+  - HealthBar
+  - EnemyBoss
+  - Boss
+  - Start
+  - EnemyBullet
+  - BGM
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - Bullet
+  - EnemyBullet
+  - Minimap
+  - MiniMapIcon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Door
+    uniqueID: 2911119217
+    locked: 0
+  - name: Player
+    uniqueID: 2625144775
+    locked: 0
+  - name: Enemy
+    uniqueID: 3853287663
+    locked: 0
